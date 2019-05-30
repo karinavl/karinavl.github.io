@@ -2,10 +2,12 @@
 layout: post
 title:  "Atendimento Online"
 date:   2017-04-20 16:12:49 -0300
-img: img/online.jpeg
+img: img/services/ATEND online.png
 modalID: modalOnline
 categories: Serviços Atendimento Online
 ---
+# Atendimento Online
+
 A orientação psicológica online, é uma prática regulamentada pelo Conselho Federal de Psicologia e está de acordo com o Código de Ética do Psicólogo.
 Os atendimentos online, são realizados em no máximo 20 sessões, com o objetivo específico de tratar um determinado sintoma ou conflito atual. Por exemplo, uma pessoa com transtorno de ansiedade, será atendida e orientada em no máximo 20 sessões pontuais para resolver os conflitos, e caso queira ou necessite dar continuidade aos atendimentos, será direcionado para um atendimento presencial.
 Público Alvo: O atendimento é direcionado a adolescentes e adultos. Se você é menor de 18 anos é necessário enviar o TERMO DE AUTORIZAÇÃO assinado por seus pais ou responsáveis por email (Digitalizado/PDF) ou correios segundo as normas expostas no termo.
