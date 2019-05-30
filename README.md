@@ -1,6 +1,6 @@
 # karinavieira.com.br
 
-![Mandala](img/mandala.png)
+![Mandala](img/mandala_.png)
 
 ## Site Karina Vieira
 
@@ -36,9 +36,13 @@ bundle install
 
 # Todo
 
-- [ ] Alterar imagens dos serviços
-    - [ ] Atendimento no consultório > Atendimento presencial
-    - [ ] Atendimento Online
-- [ ] Atualizar textos dos serviços
-    - [ ] Atendimento no consultório > Atendimento presencial
-    - [ ] Atendimento Online
+- [x] Alterar imagens dos serviços
+    - [x] Atendimento no consultório > Atendimento presencial
+    - [x] Atendimento Online
+- [x] Atualizar textos dos serviços
+    - [x] Atendimento no consultório > Atendimento presencial
+    - [x] Atendimento Online
+- [ ] Adcionar serviços
+- [ ] Background degrade
+- [ ] Alterar cor do rodapé
+- [x] Remove horizontal scrolling, bug in mobile view
