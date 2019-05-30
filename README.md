@@ -33,3 +33,12 @@ bundle install
     ```sh
     bundle exec jekyll serve
     ```
+
+# Todo
+
+- [ ] Alterar imagens dos serviços
+    - [ ] Atendimento no consultório > Atendimento presencial
+    - [ ] Atendimento Online
+- [ ] Atualizar textos dos serviços
+    - [ ] Atendimento no consultório > Atendimento presencial
+    - [ ] Atendimento Online
