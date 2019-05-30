@@ -13,31 +13,31 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://www.karinavieira.com.br" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+title: Karina Vieira De Lima
+email: karinavieirapsicologa@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Karina Vieira de Lima
+  "Psicóloga Clínica, CRP 06/137325. Graduada em Psicologia pela FMU - São Paulo/SP em 2011. Atuação em Psicoterapia Clínica com Criança, Adolescente, Adulto e Idoso. Realização de Psicodiagnóstico, Avaliação Psicológica, Elaboração de Laudos, Relatórios e Pareceres. Atualmente, realiza Atendimentos Psicológicos em São Paulo/SP. Áreas de estudo são: Psicanalise, Psicoterapia Corporal, Primeira Infância, Criança, Adolescente, A Importância do brincar e Psicopatologia."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.karinavieira.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
+facebook_username: KarinaVieira1011
+instagram_username: Karinavieira_11
+# skype_username: karina
+youtube_channel: UCj3mVDDlEuKGnSvWI8WpMag
+
+# Services
+collections:
+  - services
+
+crp: 06/137325
 
 # Build settings
 markdown: kramdown
-theme: freelancer-theme-jekyll
-plugins:
+theme: minima
+gems:
   - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
