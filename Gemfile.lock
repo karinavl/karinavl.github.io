@@ -28,7 +28,7 @@ GEM
       sass (~> 3.4)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
-    json (2.2.0)
+    json (2.3.1)
     json_mapper (0.2.1)
       json (>= 1.4.3)
     kramdown (1.17.0)
